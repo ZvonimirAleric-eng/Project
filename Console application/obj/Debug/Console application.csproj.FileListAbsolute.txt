@@ -1,3 +1,4 @@
 C:\Users\Anthr\Documents\Visual Studio 2013\Projects\Project14\Console application\obj\Debug\Console application.csprojResolveAssemblyReference.cache
 C:\Users\kresi\OneDrive\Radna površina\Project14\Console application\obj\Debug\Console application.csprojAssemblyReference.cache
 C:\Users\kresi\OneDrive\Radna površina\Project14\Console application\obj\Debug\Console application.csproj.CoreCompileInputs.cache
+C:\Users\Anthr\Documents\GitHub\Project\Console application\obj\Debug\Console application.csprojResolveAssemblyReference.cache

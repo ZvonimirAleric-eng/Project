@@ -8,10 +8,18 @@ namespace Project14
         private float Rating_sum = 0;
         private float Highest_rating = 0;
         private float Avg_rating;
+        TvUtilities Description = new TvUtilities();
+        
+
 
         public Episode(float score)
         {
             this.Rating_sum += score;
+        }
+
+        public Episode()
+        {
+            
         }
 
         public float GetMaxScore()

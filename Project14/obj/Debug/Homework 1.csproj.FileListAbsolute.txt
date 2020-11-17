@@ -2,3 +2,5 @@ C:\Users\Anthr\Documents\Visual Studio 2013\Projects\Project14\Project14\bin\Deb
 C:\Users\Anthr\Documents\Visual Studio 2013\Projects\Project14\Project14\obj\Debug\Homework 1.csprojResolveAssemblyReference.cache
 C:\Users\kresi\OneDrive\Radna površina\Project14\Project14\obj\Debug\Homework 1.csprojAssemblyReference.cache
 C:\Users\kresi\OneDrive\Radna površina\Project14\Project14\obj\Debug\Homework 1.csproj.CoreCompileInputs.cache
+C:\Users\Anthr\Documents\GitHub\Project\Project14\bin\Debug\Project14.exe.config
+C:\Users\Anthr\Documents\GitHub\Project\Project14\obj\Debug\Homework 1.csprojResolveAssemblyReference.cache
